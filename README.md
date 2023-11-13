@@ -7,7 +7,7 @@
 
 
 ```
-$pip install iso3166KOR
+$pip install iso3166KOR==0.0.1
 ```
 
 ```
